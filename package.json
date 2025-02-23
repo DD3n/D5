@@ -16,6 +16,9 @@
     "i18next": "^22.0.0",
     "react-i18next": "^12.2.0"
   },
+  "devDependencies": {
+    "jest": "^29.6.2"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
